@@ -23,6 +23,10 @@ Contents
 
 ## 1. Introduction
 
+Please not ethat an up to date version of these instructions is available at
+
+* <https://github.com/cybertraining-dsc/hid-example/blob/main/project/index.md>
+
 Here comes a convincing introduction to the problem
 
 ## 2. Report Format
@@ -39,8 +43,8 @@ Thus the following is wrong:
 
 ```
 # This is My Headline
-I do ignore proper markdown while not using empty lines between context changes
-1. This is because I ignore all best practices
+This author does ignore proper markdown while not using empty lines between context changes
+1. This is because this author ignors all best practices
 ```
 
 Instead, this should be 
@@ -48,11 +52,33 @@ Instead, this should be
 ```
 # This is My Headline
 
-I do ignore proper markdown while not using empty lines between context changes
+We do not ignore proper markdown while using empty lines between context changes
 
-1. This is because I ignore all best practices to cause issues.
+1. This is because we encourage best practices to cause issues.
 ```
 
+## 2.1. GitHub Actions
+
+When going to GitHub Actions you will see a report is autmatically generated with some help on improving your markdown. 
+We will not review any document that does not pass this check.
+
+## 2.2. PAst Copy from Word or other Editors is a Disaster!
+
+We recommend that you sue a proper that is integrated with GitHub or you use the commandline tools. We may include 
+comments into your document that you will have to fix, If you juys past copy you will 
+
+1. Not learn how to use GitHub properly and we deduct points
+2. Overwrite our coments that you than may miss and may result in point deductions as you have not addressed them.
+
+## 2.3. Report or Project
+
+You have two choices for the final project. 
+
+1. Project, That is a final report that includes code.
+2. Report, that is a final project without code.
+   
+YOu will be including the type of the project as a prefix to your title, as well as in the Type tag
+at the beginning of your project.
 
 ## 3. Using Images
 
@@ -71,7 +97,7 @@ Remember this is not a powerpoint presentation, but a report so we recommend
 
 Datasets can be huge and GitHub has limited space. Only very small datasets should be stored in GitHub.
 However, if the data is publicly available you program must contain a download function instead that you customize.
-Write it using pythons `request`. You will get point deductions if you check-in data sets that are large and do not use 
+Write it using pythons `request`. You will get point deductions if you check-in data sets that are large and do not use
 the download function.
 
 ## 6. Benchmark
