@@ -53,3 +53,25 @@ git commit -a
 ```
 
 If you see something that should not be committed exit the editor without saving.
+
+## File and Directory names
+
+### Capitalization
+
+Please be aware that on some operating systems there is no distinction between capital and lower case letters. While on others there is. To make your files accessible to all it is usually frounwd upon to name files and directories with capital letters, if the programming language you chose does not encourag this. All markdown files and images should be lower case. This is especially true for some MAC users.
+
+So when you name a file "ThisIsMyRealBadFilename.py" It translated to the same name as "thisismyrealbadfilename.py" on some systems. Be a GitHub expert and avoid capitalization all together if reasonable.
+
+## Spaces and other starnke things in filenames.
+
+They shall not use spaces and other special charaters in filenames. Allowed charaters are
+
+a-z A-Z 0-9 . _-
+
+nothing else.
+
+
+
+
+
+
