@@ -27,7 +27,7 @@ Replace the hid-example with your hid number
 ## commit
 
 ```
-$ git commit -a``
+$ git commit -a
 ```
 
 ## Github Worst Practice and Tip
