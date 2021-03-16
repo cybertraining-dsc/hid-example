@@ -30,7 +30,7 @@ Replace the hid-example with your hid number
 $ git commit -a``
 ```
 
-## Github Worst tips
+## Github Worst Practice and Tip
 
 One of the worst tips that we have seen from teachers, students and on the internet is to use the 
 
