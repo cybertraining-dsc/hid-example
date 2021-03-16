@@ -1,4 +1,4 @@
-# Project: THis is the Descriptive Title of the Example
+# Project: This is the Descriptive Title of the Example
 
 [![Check Report](https://github.com/cybertraining-dsc/hid-example/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/hid-example/actions)
 [![Status](https://github.com/cybertraining-dsc/hid-example/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/hid-example/actions)
