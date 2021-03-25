@@ -5,7 +5,7 @@
 Status: final, Type: Project
 
 
-Gregor von Laszewski, [hid-example](https://github.com/cybertraining-dsc/hid-example/), [Edit](https://github.com/cybertraining-dsc/hid-example/blob/main/project/project.md)
+Gregor von Laszewski, [hid-example](https://github.com/cybertraining-dsc/hid-example/), [Edit](https://github.com/cybertraining-dsc/hid-example/blob/main/project/index.md)
 
 {{% pageinfo %}}
 
