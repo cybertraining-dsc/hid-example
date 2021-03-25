@@ -23,9 +23,12 @@ Contents
 
 ## 1. Introduction
 
-Please not ethat an up to date version of these instructions is available at
+Do not include this tip in your document:
 
-* <https://github.com/cybertraining-dsc/hid-example/blob/main/project/index.md>
+> Tip: Please note that an up to date version of these instructions is available at
+>
+> * <https://github.com/cybertraining-dsc/hid-example/blob/main/project/index.md>
+
 
 Here comes a convincing introduction to the problem
 
