@@ -1,4 +1,4 @@
-# Assignment 1
+# Assignment 1 (use proper title, Assignment 1 is just a placeholder) 
 
 Author: Gregor von Laszewski
 
