@@ -11,7 +11,7 @@ Gregor von Laszewski, [hid-example](https://github.com/cybertraining-dsc/hid-exa
 
 ## Abstract
 
-Her comes a short abstract of the project that summarizes what it is about
+Here comes a short abstract of the project that summarizes what it is about
 
 Contents
 
