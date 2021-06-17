@@ -1,9 +1,23 @@
-# Project: This is the Descriptive Title of the Example
+---
+date: 2021-06-16
+title: # Project: This is the Descriptive Title of the Example
+linkTitle: Example
+tags: ["project", "reu"]
+description: "Here comes the abstract"
+author: Firstanme, Lastname
+resources:
+- src: "**.{png,jpg}"
+  title: "Image #:counter"
+---
+
+
+Fix the links: and than remove this line
 
 [![Check Report](https://github.com/cybertraining-dsc/hid-example/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/hid-example/actions)
 [![Status](https://github.com/cybertraining-dsc/hid-example/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/hid-example/actions)
-Status: final, Type: Project
+Status: draft, Type: Project
 
+Fix the links: and than remove this line
 
 Gregor von Laszewski, [hid-example](https://github.com/cybertraining-dsc/hid-example/), [Edit](https://github.com/cybertraining-dsc/hid-example/blob/main/project/index.md)
 
