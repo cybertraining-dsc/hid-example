@@ -79,7 +79,7 @@ We do not ignore proper markdown while using empty lines between context changes
 When going to GitHub Actions you will see a report is autmatically generated with some help on improving your markdown. 
 We will not review any document that does not pass this check.
 
-## 2.2. PAst Copy from Word or other Editors is a Disaster!
+## 2.2. Paste and Copy from Word or other Editors is a Disaster!
 
 We recommend that you sue a proper that is integrated with GitHub or you use the commandline tools. We may include 
 comments into your document that you will have to fix, If you juys past copy you will 
