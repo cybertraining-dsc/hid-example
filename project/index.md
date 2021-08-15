@@ -99,6 +99,16 @@ at the beginning of your project.
 
 ## 3. Using Images
 
+The images for a report will have the following syntax:
+
+```
+![Figure 1](https://github.com/cybertraining-dsc/fa20-523-314/raw/main/project/images/chart.png)
+
+**Figure 1:** Images can be included in the report, but if they are copied you must cite them [^1].
+```
+
+The only thing you have to do is to change your hid directory. It will result in Figure 1.
+
 ![Figure 1](https://github.com/cybertraining-dsc/fa20-523-314/raw/main/project/images/chart.png)
 
 **Figure 1:** Images can be included in the report, but if they are copied you must cite them [^1].
